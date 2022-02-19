@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ Las variables son como maletines para guardar informacion, esta informacion se puede actualizar o cambiar.
+ cada maletin tiene un nombre especifico y podemos encontrar dicho maletin por el nombre y por ende encontrar
+ la informacion que el maletin posee.
+
+ * Funciones (argumentos, `return`)
+ Las funciones agrupa codigo, 'lo guarda' para que despues lo podamos ejecutar, es decir una funcion puede contener varios maletines, por lo que 
+ las funciones serian como el portaequipaje de un carro. Las funciones encapsulan funcionabilidades que quiera utilizar mas adelante.
+
+ los argumentos van dentro de las funciones, pueden o no estar declarados.
+
+ El return me devuelve lo que le estoy pidiendo a la funcion y la funcion se detiene
+
+ * Declaraciones `if`
+ Condicionales que es evaluada ya sea verdadera y/o falsa y se ejecuta de acuerdo a la sentencia.
+
+ * Valores booleanos (`true`, `false`)
+ Dato primitivo que tiene dos posibles valores 'true' o 'false'
+
+
